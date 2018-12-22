@@ -1,0 +1,65 @@
+#segundaImagen {
+  border:1px solid black;
+background-color: #E6E6E6
+}
+#TerceraImagen { 
+	 border:1px solid black;
+background-color: #CCCCCC
+}
+
+#CuartaImagen {
+	 border:1px solid black;
+background-color: #B3B3B3
+}
+#quintaImagen{
+	border:1px solid black;
+background-color: #999999;
+}
+
+#sextaImagen {
+	border:1px solid black;
+background-color: #808080;
+}
+
+#septimaImagen {
+		border:1px solid black;
+background-color: #666666;
+}
+#octavaImagen {
+border:1px solid black;
+background-color: #4C4C4C;
+
+}
+#novenaImagen {
+	border:1px solid black;
+background-color: #333333;
+}
+#decimaImagen {
+		border:1px solid black;
+background-color: #191919;
+
+}
+
+
+
+h1 {
+	color:black; text-decoration: blink; text-align: center; font-family: verdana;
+
+}
+
+table{
+	border: 2px solid black;
+	border-style: solid;
+}
+th{
+	border: 1px solid black;
+	background-color: gray
+}
+tr{
+	border:2px black solid;
+}
+td{
+	border:1px solid black;
+	color:black; text-decoration: blink; text-align: center; font-family: verdana;
+}
+
